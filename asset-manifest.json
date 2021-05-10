@@ -3,10 +3,10 @@
     "static/js/0.8308718c.chunk.js": "/react/static/js/0.8308718c.chunk.js",
     "static/js/0.8308718c.chunk.js.map": "/react/static/js/0.8308718c.chunk.js.map",
     "main.css": "/react/static/css/main.4f986e7c.chunk.css",
-    "main.js": "/react/static/js/main.98525033.chunk.js",
-    "main.js.map": "/react/static/js/main.98525033.chunk.js.map",
-    "runtime-main.js": "/react/static/js/runtime-main.38fb204e.js",
-    "runtime-main.js.map": "/react/static/js/runtime-main.38fb204e.js.map",
+    "main.js": "/react/static/js/main.6208e126.chunk.js",
+    "main.js.map": "/react/static/js/main.6208e126.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.53439446.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.53439446.js.map",
     "static/js/3.ccafee16.chunk.js": "/react/static/js/3.ccafee16.chunk.js",
     "static/js/3.ccafee16.chunk.js.map": "/react/static/js/3.ccafee16.chunk.js.map",
     "static/css/4.75579d9c.chunk.css": "/react/static/css/4.75579d9c.chunk.css",
@@ -19,8 +19,8 @@
     "static/js/6.f6c9a655.chunk.js": "/react/static/js/6.f6c9a655.chunk.js",
     "static/js/6.f6c9a655.chunk.js.map": "/react/static/js/6.f6c9a655.chunk.js.map",
     "static/css/7.12bae9c1.chunk.css": "/react/static/css/7.12bae9c1.chunk.css",
-    "static/js/7.362989c1.chunk.js": "/react/static/js/7.362989c1.chunk.js",
-    "static/js/7.362989c1.chunk.js.map": "/react/static/js/7.362989c1.chunk.js.map",
+    "static/js/7.e9755873.chunk.js": "/react/static/js/7.e9755873.chunk.js",
+    "static/js/7.e9755873.chunk.js.map": "/react/static/js/7.e9755873.chunk.js.map",
     "static/js/8.949b144d.chunk.js": "/react/static/js/8.949b144d.chunk.js",
     "static/js/8.949b144d.chunk.js.map": "/react/static/js/8.949b144d.chunk.js.map",
     "static/css/9.93c08bb5.chunk.css": "/react/static/css/9.93c08bb5.chunk.css",
@@ -30,7 +30,7 @@
     "static/js/10.a5e96bd8.chunk.js": "/react/static/js/10.a5e96bd8.chunk.js",
     "static/js/10.a5e96bd8.chunk.js.map": "/react/static/js/10.a5e96bd8.chunk.js.map",
     "index.html": "/react/index.html",
-    "precache-manifest.5cd1a858c8c0ae132de7747e6d4b0845.js": "/react/precache-manifest.5cd1a858c8c0ae132de7747e6d4b0845.js",
+    "precache-manifest.4ab90a8bc5719a9e1392009e18535be9.js": "/react/precache-manifest.4ab90a8bc5719a9e1392009e18535be9.js",
     "service-worker.js": "/react/service-worker.js",
     "static/css/10.57f62c54.chunk.css.map": "/react/static/css/10.57f62c54.chunk.css.map",
     "static/css/4.75579d9c.chunk.css.map": "/react/static/css/4.75579d9c.chunk.css.map",
@@ -47,9 +47,9 @@
     "static/media/zloy_admin.png": "/react/static/media/zloy_admin.565b4950.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.38fb204e.js",
+    "static/js/runtime-main.53439446.js",
     "static/js/3.ccafee16.chunk.js",
     "static/css/main.4f986e7c.chunk.css",
-    "static/js/main.98525033.chunk.js"
+    "static/js/main.6208e126.chunk.js"
   ]
 }
